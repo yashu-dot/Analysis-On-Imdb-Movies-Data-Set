@@ -13,9 +13,9 @@
     11. Statsmodels.stats
     12. weightstats  
 3. **Command to execute:**
-  1. In jupyter lab, open imdb_datacleaning.ipynb file and run the code.
-  2. In jupyter lab, open normalisation.ipynb file and run the code.
-  3. In jupyter lab, open visualization.ipynb file and run the code.
-  4. In jupyter lab, open hypothesis tesing.ipynb file and run the code.
+      1. In jupyter lab, open imdb_datacleaning.ipynb file and run the code.
+      2. In jupyter lab, open normalisation.ipynb file and run the code.
+      3. In jupyter lab, open visualization.ipynb file and run the code.
+      4. In jupyter lab, open hypothesis tesing.ipynb file and run the code.
 
 
