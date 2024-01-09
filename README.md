@@ -12,6 +12,7 @@
 10. plotly
 11. Statsmodels.stats
 12. weightstats
+\\
 **Command to execute:**
 1. In jupyter lab, open imdb_datacleaning.ipynb file and run the code.
 2. In jupyter lab, open normalisation.ipynb file and run the code.
